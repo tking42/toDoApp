@@ -7,7 +7,7 @@ To Do App, using Slim framework and PHP.
 git clone git@github.com:tking42/toDoApp.git
 
 One cloned, install the slim components:
-_Composer install_
+_composer install_
 
 To run the application locally:
 _composer start_
